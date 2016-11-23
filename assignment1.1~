@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="1.css">
+<title>Assignment first for basic clearance on html </title>
+</head>
+
+<body>
+<div id="border">
+<h1>First Heading</h1>
+<p>First <u>Paragraph</u> </p>
+<p>Second <i>Paragraph</i> </p>
+<p>Third <b>Paragraph</b> </p>
+
+<h2>Second Paragraph</h2>
+<img src="ganguly1.jpg" height="148px">
+<img src="ganguly2.jpg"height="148px">
+<img src="ganguly3.jpg"height="148px">
+<img src="ganguly4.jpg">
+
+<p>SEcond <i>Paragraph</i></p>
+
+<p>Third <b>Paragraph</b></p>
+
+</div>
+</body>
+</html>
+
+
